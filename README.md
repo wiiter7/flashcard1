@@ -2,8 +2,8 @@
 
 ## 🎯 Sobre o projeto
 Este projeto foi desenvolvida com o objetivo de criar um ferramenta de estudos baseada na tecnica de repetição espaçada.
-A idea é fornecedor uma plataforma limpa, intuitiva e sem distrações.
-Seja para estudar para uma prova, aprender algo novo, ou memorizar algo.
+A idea é fornecer uma plataforma limpa, intuitiva e sem distrações.
+Seja para estudar para uma prova ou aprender algo novo, ou memorizar algo.
 _ _ _
 
 ## como usar 
